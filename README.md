@@ -9,7 +9,7 @@ I am an official graduate of Actualize Coding Bootcamp where I earned a certific
 ### 👀 I’m interested in:
 - coding logic 🤖
 - writing ✏️
-- organization 🗓️
+- organizing 🗓️
 - UX design 🎨
 
   ### Let's embark on this coding journey together! 💻 🚀
