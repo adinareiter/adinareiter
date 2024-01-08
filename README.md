@@ -4,7 +4,7 @@
 
 I am an official graduate of Actualize Coding Bootcamp where I earned a certificate in full-stack web development. But my learning adventure doesn't end here... it's just begun!💡
 
- I am fascinated by the tech world and its endless possibilities. And now that I've caught an enticing glimpse into this vast and endless ocean, my thirst for learning has only expanded! 🌱
+ I am fascinated by the developer world and its endless possibilities. And now that I've caught an enticing glimpse into this vast and endless ocean, my thirst for learning has only expanded! 🌱
 
 ### 👀 I’m interested in:
 - coding logic 🤖
